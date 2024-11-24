@@ -1,0 +1,8 @@
+.SearchResults {
+    width: 40%;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
